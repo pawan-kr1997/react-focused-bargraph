@@ -3,7 +3,7 @@ import styles from './styles.module.css'
 import { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 
-const Bar = (props) => {
+export const Bar = (props) => {
   const refs = useRef([]);
   let barArray = [];
   let barData = props.data;
@@ -166,5 +166,3 @@ Bar.propTypes = {
   data: PropTypes.array.isRequired
 }
 
-
-export default Bar;

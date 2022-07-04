@@ -1,11 +1,11 @@
 import React from 'react'
 
-import Bar  from 'react-focused-bargraph'
+import {Bar}  from 'react-focused-bargraph'
 import 'react-focused-bargraph/dist/index.css'
 
 const App = () => {
   let data = [
-    { Date: "1/12/22", "Steps Counts": 68 },
+    { Date: "1/12/22", "Steps Counts": 268 },
     { Date: "2/12/22", "Steps Counts": 50 },
     { Date: "3/12/22", "Steps Counts": 200 },
     { Date: "4/12/22", "Steps Counts": 68 },
