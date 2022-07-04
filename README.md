@@ -4,11 +4,13 @@
 
 [![NPM](https://img.shields.io/npm/v/react-focused-bargraph.svg)](https://www.npmjs.com/package/react-focused-bargraph) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## What is react-focused-bargraph
+## What is react-focused-bargraph?
 
 `react-focused-bargraph` is a NPM package that helps to create bar graph best suited for responsive application with a good user experience.
 
-## What to expect after using this package
+## What to expect after using this package?
+
+One can achieve the below bar graph by using this package.
 
 ![Focused Bar Graph](https://i.imgur.com/VZawnlo.gif)
 
@@ -74,7 +76,7 @@ export default App;
 
 ## Contributing
 
- Everyone is welcome for contribution! Fork the repo, make some changes, submit a pull-request! if you want to play with the react application of this component library go [here](https://github.com/pawan-kr1997/Focused-Bar-Graph)
+ Everyone is welcome for contribution! Fork the repo, make some changes, submit a pull-request! if you want to play with the react application of this component library go [here](https://github.com/pawan-kr1997/Focused-BarGraph)
 
 ## License
 
